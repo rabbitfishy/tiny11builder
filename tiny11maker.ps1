@@ -244,7 +244,6 @@ $packagePrefixes = 'AppUp.IntelManagementandSecurityStatus',
 'Microsoft.XboxApp',
 'Microsoft.XboxGameOverlay',
 'Microsoft.XboxGamingOverlay',
-'Microsoft.XboxIdentityProvider',
 'Microsoft.XboxSpeechToTextOverlay',
 'Microsoft.YourPhone',
 'Microsoft.ZuneMusic',
@@ -532,4 +531,5 @@ if (Test-Path -Path "$PSScriptRoot\autounattend.xml") {
 Stop-Transcript
 
 exit
+
 
